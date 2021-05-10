@@ -1,0 +1,72 @@
+body{
+	background-color: black;
+    font-family: 'Raleway', sans-serif;
+    color:white;
+}
+
+.navbar{
+	background-color: black;
+}
+
+.subMenu{
+	background-color: black;
+}
+
+.subMenu a{
+	color: white;
+}
+
+header{
+	border-bottom-style: solid;
+	border-bottom-color:#E3D300;
+	display: flex;
+}
+
+section, article{
+	padding: 2%;
+}
+
+article{
+	text-align: center;
+}
+
+h1, .subtitulo{
+	text-align: center;
+}
+
+video{
+	max-width: 100%;
+}
+
+footer{
+	background-color: black;
+	padding: 1%;
+	border-top-style: solid;
+	border-top-color:#E3D300;
+}
+
+.carouselExampleInterval{
+	margin: 2%;
+}
+
+.img-thumbnail{
+	padding: 0;
+}
+
+#acerca{
+	text-align: center;
+}
+
+.temporada{
+	border-style: solid;
+	border-color:#E3D300;
+	margin: 2%;
+	padding: 2%;
+}
+
+.parrafo{
+	border-right-style: solid;
+	border-right-color: #E3D300;
+	padding: 1%;
+	margin: 2% 0;
+}
